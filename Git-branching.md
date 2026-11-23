@@ -4,3 +4,10 @@
 
 Branches let developers and technical writer to work on changes without bothering the main branch.
 
+\#How does git branch workflow works?
+
+* Make the changes
+* Commit the changes
+* Push the branch to GitHub
+* Create a pull request
+
