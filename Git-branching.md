@@ -45,3 +45,18 @@ Markdown is easy and quick to learn and aligns well with GitHub.
 
 ***Git, GitHub, Jira, and Confluence*** are essential to be a technical writer.
 
+### Popular documentation tools
+
+
+
+* Git
+* Jira
+* Confluence
+
+#### Steps to create a Git branch
+
+1. Open Git Bash.
+2. Navigate to repository.
+3. create a new branch.
+4. Switch to the branch.
+
