@@ -1,21 +1,33 @@
-# What is Git Branches?
+# What are Git Branches?
 
 ## Independent line of development in simple words
 
+
+
 Branches let developers and technical writer to work on changes without bothering the main branch.
 
-
-# Benefits
+## Benefits
 
 * keeps main branch stable
 * allows to work independently
 * easy to make review changes
 
-#How does git branch workflow works?
+## How does git branch workflow works?
 
 * Make the changes
 * Commit the changes
 * Push the branch to GitHub
 * Create a pull request
 
+## Introduction to Markdown
+
+
+
+Markdown is a lightweight markup language. It assists technical writers to curate clear and structured documents.
+
+### Why Markdown is useful?
+
+
+
+Markdown is easy and quick to learn and aligns well with GitHub.
 
