@@ -31,3 +31,17 @@ Markdown is a lightweight markup language. It assists technical writers to curat
 
 Markdown is easy and quick to learn and aligns well with GitHub.
 
+
+
+**Git** is a version control tool.
+
+*Markdown* uses symbols to format plain text.
+
+
+
+~~Check strikethrough~~
+
+
+
+***Git, GitHub, Jira, and Confluence*** are essential to be a technical writer.
+
