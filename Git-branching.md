@@ -4,3 +4,9 @@
 
 Branches let developers and technical writer to work on changes without bothering the main branch.
 
+\# Benefits
+
+* keeps main branch stable
+* allows to work independently
+* easy to make review changes
+
