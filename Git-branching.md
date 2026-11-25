@@ -87,4 +87,16 @@ Markdown allows to embed images in the document
 ![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 
+## Code Blocks and Inline Code
+
+Use `git status` to check the repository status.
+
+Example Git commands:
+
+```bash
+git add Git-branching.md
+git commit -m "Updated documentation"
+git push origin main
+```
+
 
