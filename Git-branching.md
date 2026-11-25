@@ -72,5 +72,5 @@ Markdown is easy and quick to learn and aligns well with GitHub.
 
 
 
-### Visit my [GitHub profile](https://github.com/Pooja-writes/my-doc).
+Visit my [GitHub profile](https://github.com/Pooja-writes/my-doc).
 
