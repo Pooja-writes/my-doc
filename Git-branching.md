@@ -74,3 +74,17 @@ Markdown is easy and quick to learn and aligns well with GitHub.
 
 Visit my [GitHub profile](https://github.com/Pooja-writes/my-doc).
 
+
+
+## Markdown Images
+
+
+
+Markdown allows to embed images in the document
+
+
+
+![GitHub logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
+
