@@ -91,7 +91,7 @@ Markdown allows to embed images in the document
 
 Use `git status` to check the repository status.
 
-Example Git commands:
+**Example Git commands:**
 
 ```bash
 git add Git-branching.md
@@ -99,4 +99,13 @@ git commit -m "Updated documentation"
 git push origin main
 ```
 
+
+## Common Git Commands
+
+| Command | Purpose |
+|---|---|
+| `git status` | Check repository status |
+| `git add` | Stage changes |
+| `git commit` | Save changes locally |
+| `git push` | Upload changes to GitHub |
 
