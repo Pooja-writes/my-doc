@@ -60,3 +60,17 @@ Markdown is easy and quick to learn and aligns well with GitHub.
 3. create a new branch.
 4. Switch to the branch.
 
+
+
+### Useful links for documentation
+
+
+
+1. [Git Documentation](https://git-scm.com/doc)
+2. [GitHub doc](https://docs.github.com/)
+3. [Markdown Guide](https://www.markdownguide.org/)
+
+
+
+### Visit my [GitHub profile](https://github.com/Pooja-writes/my-doc).
+
