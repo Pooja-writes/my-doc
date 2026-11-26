@@ -74,7 +74,7 @@ Upload your committed changes to the remote repository:
 
 
 
-`git push origin main`
+`git push -u origin documentation-update`
 
 ### 6. Create a Documentation Branch
 
