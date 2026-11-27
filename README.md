@@ -54,3 +54,17 @@ The purpose of this project is to develop technical documentation skills and und
 
 [View this project on GitHub](https://github.com/Pooja-writes/my-doc)
 
+
+
+## Documentation Samples
+
+
+
+Explore my technical documentation work:
+
+
+
+- [Git Branching Guide](https://github.com/Pooja-writes/my-doc/blob/main/Git-branching.md) — Covers Git branching concepts, Markdown basics, and essential Git commands.
+
+- [Documentation Workflow Using Git](https://github.com/Pooja-writes/my-doc/blob/main/Git-Documentation-Workflow.md) — Explains how technical writers can manage documentation using Git and GitHub.
+
