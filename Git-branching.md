@@ -109,3 +109,10 @@ git push origin main
 | `git commit` | Save changes locally |
 | `git push` | Upload changes to GitHub |
 
+## Markdown Best Practices
+
+- Use clear and descriptive headings.
+- Keep paragraphs short and simple.
+- Use meaningful link text.
+- Format commands using backticks.
+- Write descriptive alternative text for images.
